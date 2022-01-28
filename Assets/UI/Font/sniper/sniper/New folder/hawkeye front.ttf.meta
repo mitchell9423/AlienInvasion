@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f8d0e23640f7d2246b4155fd3e866efe
+timeCreated: 1500313683
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hawkeye
+  fontNames:
+  - Hawkeye
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aaaafdb82505c2b41b949881a821ab0c, type: 3}
+  - {fileID: 12800000, guid: aaa89a1da9423db4e8d8442e2524a272, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

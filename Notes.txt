@@ -1,0 +1,22 @@
+void FixedUpdate()
+    {
+        float moveHorizontal = Input.GetAxis("Horizontal");
+        //moveCount += 1;
+        float moveVertical = Input.GetAxis("Vertical");
+        //moveCount += 1;
+
+        Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
+
+        rb.AddForce(movement * speed);
+        //SetCountText();
+    }
+
+
+
+
+camera
+0 5 -10
+30 0 0
+1 1 1
+
+comaps

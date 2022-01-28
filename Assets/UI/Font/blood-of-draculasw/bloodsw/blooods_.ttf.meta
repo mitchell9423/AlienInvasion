@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3cc7391bbf6175c468688889b31df810
+timeCreated: 1500267888
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blood Of DraculaSW
+  fontNames:
+  - Blood Of DraculaSW
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

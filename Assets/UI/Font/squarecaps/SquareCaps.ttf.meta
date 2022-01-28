@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4991b60fd931ce5438e1c80a3d3d5d73
+timeCreated: 1500267029
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SquareCaps
+  fontNames:
+  - SquareCaps
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

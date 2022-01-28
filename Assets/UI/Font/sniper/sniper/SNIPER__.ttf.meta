@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a69e64a63b1f71342ab8943657e1b0c7
+timeCreated: 1500268659
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SNIPER
+  fontNames:
+  - SNIPER
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

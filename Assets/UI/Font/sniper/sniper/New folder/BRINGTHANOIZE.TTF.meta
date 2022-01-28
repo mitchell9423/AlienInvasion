@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a2f5691ef476a5645ab34651e8eea19c
+timeCreated: 1500312983
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bring tha noize
+  fontNames:
+  - Bring tha noize
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
